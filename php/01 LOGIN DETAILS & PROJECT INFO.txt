@@ -1,8 +1,5 @@
 
-**Database Name: ohmsphp**
-
 **Recommended PHP Version 5.6 or Newer**
-
 
 **Admin Login Details**
 
